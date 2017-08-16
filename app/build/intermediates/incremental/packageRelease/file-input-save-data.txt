@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 17 01:32:29 EEST 2017
+#Thu Aug 17 01:35:29 EEST 2017
 25.file=C\:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\bookmarked.png
 25.base=C\:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\res\\resources-release.ap_
 22.set=ANDROID_RESOURCE

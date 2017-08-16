@@ -103,11 +103,12 @@ public class UrducaActivity extends ListActivity {
             if (FarscaActivity.durum==0){
                 Intent ıntent=new Intent(UrducaActivity.this,UrducaActivity.class);
                 startActivity(ıntent);
-
+                finish();
                 FarscaActivity.durum=1;
             }else if (FarscaActivity.durum==1){
                 Intent ıntent=new Intent(UrducaActivity.this,FarscaActivity.class);
                 startActivity(ıntent);
+                finish();
                 FarscaActivity.durum=0;
             }
         }else if(item.getItemId() == R.id.about) {

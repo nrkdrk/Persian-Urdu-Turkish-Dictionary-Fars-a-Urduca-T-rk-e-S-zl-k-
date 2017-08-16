@@ -98,10 +98,12 @@ public class FarscaActivity extends ListActivity {
     		if (durum==0){
 				Intent ıntent=new Intent(FarscaActivity.this,UrducaActivity.class);
 				startActivity(ıntent);
+				finish();
 				durum=1;
 			}else if (durum==1){
 				Intent ıntent=new Intent(FarscaActivity.this,FarscaActivity.class);
 				startActivity(ıntent);
+				finish();
 				durum=0;
 			}
     	}else if(item.getItemId() == R.id.about) {
