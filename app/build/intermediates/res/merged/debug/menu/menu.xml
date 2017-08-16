@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+ <item 
+     android:id="@+id/add_new"
+     android:title="Ekle"
+     android:icon="@drawable/plus"  
+     android:showAsAction="ifRoom"/>
+ <item 
+     android:id="@+id/bookmarked_words"
+     android:title="Favoriler"
+     android:icon="@drawable/bookmarked_words"  
+     android:showAsAction="always"/>
+ <item 
+     android:id="@+id/changeDic"
+     android:title="Diğer Dile Geç"
+     android:icon="@drawable/about"  
+     android:showAsAction="never"/>
+ <item
+     android:id="@+id/about"
+     android:title="Uygulama Hakkında"
+     android:icon="@drawable/about"
+     android:showAsAction="never"/>
+</menu>

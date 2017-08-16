@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farsça Türkçe Sözlük</string>
+    <string name="title_activity_favourites">Farsça Favori Kelimeler</string>
+    <string name="title_activity_favourites1">Urdurca Favori Kelimeler</string>
+    <string name="title_activity_about">Uygulama Hakkında</string>
+    <string name="about">Bana Ulaşmak için<a href="https://www.facebook.com/nrkbrk"> tıklayınız</a></string>
+    <string name="about1">GitHub Hesabıma Ulaşmak için<a href="https://github.com/nrkdrk"> tıklayınız</a></string>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 90,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 97,
+                        "endOffset": 152
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Berk Can\\Desktop\\Weather-master\\Bangla-Dictionary-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 90,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Desktop\\Weather-master\\Bangla-Dictionary-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 97,
+                        "endOffset": 152
+                    }
+                }
+            }
+        ]
+    }
+]

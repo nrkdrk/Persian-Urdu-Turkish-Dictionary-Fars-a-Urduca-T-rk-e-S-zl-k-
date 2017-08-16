@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/indir">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#8c646464"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <ImageView
+            android:src="@drawable/star"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:text="Farsça-Urduca Türkçe Sözlük"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="5dp" />
+
+        <TextView
+            android:text="Geliştirici Berk Can"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="Versiyon: 1.0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="18sp"
+            android:text="@string/about"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:textColor="@android:color/background_light"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="18sp"
+            android:text="@string/about1" />
+    </LinearLayout>
+</LinearLayout>
