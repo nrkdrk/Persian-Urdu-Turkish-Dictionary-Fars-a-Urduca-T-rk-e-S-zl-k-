@@ -1,0 +1,4 @@
+#Thu Aug 17 01:32:29 EEST 2017
+base.0=C\:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

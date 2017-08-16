@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 79,
+                        "endOffset": 134
+                    }
+                }
+            }
+        ]
+    }
+]

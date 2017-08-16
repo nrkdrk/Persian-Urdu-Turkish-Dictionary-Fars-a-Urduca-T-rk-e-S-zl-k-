@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 108,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 114,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 114,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 57,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 57,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 66,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 66,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 77,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 77,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 79,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 79,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 90,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\Berk Can\\Documents\\GitHub\\Persian-Urdu-Turkish-Dictionary-Farsca-Urduca-Turkce-Sozluk\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 97,
+                        "endOffset": 152
+                    }
+                }
+            }
+        ]
+    }
+]
